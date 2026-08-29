@@ -20,7 +20,7 @@ Today, I continue to expand my work at the intersection of learning, communities
 
 It is in this territory that I want to build my path: co-creating learning experiences and ecosystems capable of positively impacting people, organizations, and society.
 
-### Tools
+### 🔧Tools
 
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
