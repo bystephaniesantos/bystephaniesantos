@@ -36,17 +36,6 @@ I currently dedicate my studies to deepening the techniques for developing solut
 
 ## 🔎Curiosities about me
 
-* 💼 I'm currently working at [Trybe](https://www.betrybe.com/)
-* 🏈 I'm a Flag Football player - [Cavalaria 2 de Julho](https://www.instagram.com/cavalariafa/)
-* 📚 I love read
-* 🌱 I'm currently learning UX Design
-* 💡 I'm creating content on [LinkedIn](https://www.linkedin.com/in/stephaniemoraes/) to share my learning and discovery
-
-## 📊My GitHub Stats
-
-<div>
-  <a href="https://github.com/stephaniemoraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stephaniemoraes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
-
-
+* 💼 I'm currently working as a Learning Community Manager at [Trybe](https://www.betrybe.com/).
+* 📚 I love reading and writing about what I’ve learned from my reading.
+* ✍🏻 I create content for [LinkedIn](https://www.linkedin.com/in/bystephaniesantos/) about lessons learned from the reading and experiments I undertake.
