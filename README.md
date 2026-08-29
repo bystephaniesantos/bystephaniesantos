@@ -29,3 +29,5 @@ It is in this territory that I want to build my path: co-creating learning exper
 - 📚 I love reading and writing about what I’ve learned from my reading.
   - You can read my articles in the [Passando a Limpo](https://passandoalimpo.substack.com/) newsletter on Substack.
 - ✍🏻 I create content for [LinkedIn](https://www.linkedin.com/in/bystephaniesantos/) about lessons learned from the reading and experiments I undertake.
+- 🧱 I have a passion for LEGO: I love collecting and building sets.
+- ⚽ I love playing and watching football matches, and I am very excited about the FIFA Women's World Cup Brazil 2027, which will take place in Brazil.
