@@ -2,40 +2,30 @@
 
 Before any academic title or professional experience, I'm passionate about learning and sharing knowledge.
 
-When I contributed to achieving 133% of the goal of a national project in which I was responsible for managing a multidisciplinary team working remotely during the period of the COVID-19 pandemic, I understood that I was ready to lead and drive teams towards achieving this goal. of your goals even in the face of great challenges.
+I work on the co-creation of learning experiences and ecosystems that connect people, organizations, and society. My purpose is to contribute to a future where learning is an incidental, experimental, and collaborative experience for everyone, throughout life.
 
 <div align="left">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZzcHlidzB1a2h5cG9jZGJvdW4zOGxlbDRycGg3enRneG5tcmw5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeBeB9rR524RW/giphy.gif" width="600" alt="Gamer Room">  
 </div>
 
-## 🚀Expertise
+## 💼Experience
 
-I have more than 5 years working as a team and project manager, having worked at startups ([Zig. The Global Funtech](https://zig.fun/) and [Trybe](https://www.betrybe.com/)) and 3rd sector ([TETO Brasil](https://teto.org.br/) and [Politize!](https://www.politize.com.br/)), with consolidated experience in planning, organizing and monitoring projects, and leading multidisciplinary teams.
+I am a Learning Community Manager and Designer with over 10 years of experience in relationship management, engagement, and project management. My career path combines strategy, learning, and a results-oriented mindset, with experience at technology companies like [Zig. The Global Funtech](https://zig.fun/) and [Trybe](https://www.betrybe.com/), as well as third-sector organizations such as [TETO Brasil](https://teto.org.br/), [Instituto Há Esperança](https://www.linkedin.com/company/haesperancabr/), and [Politize!](https://www.politize.com.br/).
 
-I currently dedicate my studies to deepening the techniques for developing solutions and products. After completing PM3's Product Management training, I'm taking the UX Design training offered by Google. I want and am available to work with development teams and collaborate in achieving their goals.
+At Trybe, I currently provide career consulting for a community of over 5,000 alumni, a service that maintains an NPS of 84 and has helped more than 42% of the people served secure opportunities in the tech sector.
 
-## 💻My skills
+My experience with social impact projects includes leading multidisciplinary teams, mobilization events, and educational initiatives. In 2021, I remotely led a team distributed across TETO Brasil’s seven regional branches during a national event that raised over R$ 400,000 in seven days, exceeding the goal by 33%.
 
-### Stacks
+Today, I continue to expand my work at the intersection of learning, communities, creativity, and impact, experimenting with new ways to create environments where people can learn together, share perspectives, turn knowledge into action, and drive positive change.
 
-![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+It is in this territory that I want to build my path: co-creating learning experiences and ecosystems capable of positively impacting people, organizations, and society.
 
 ### Tools
 
-![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-## 🤝🏻Connect with me
+## ✨Curiosities about me
 
-<div>
-  <a href="https://www.goodreads.com/user/show/161335548-st-phanie-santos" target="_blank"><img src="https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white" target="_blank"></a>
-  <a href="https://medium.com/@stephaniemmoraes" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/stephaniemoraes" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/stephanie.mmoraes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.youtube.com/channel/UCt2f81ShocCJRyivwqxDD6w" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-</div>
-
-## 🔎Curiosities about me
-
-* 💼 I'm currently working as a Learning Community Manager at [Trybe](https://www.betrybe.com/).
-* 📚 I love reading and writing about what I’ve learned from my reading.
-* ✍🏻 I create content for [LinkedIn](https://www.linkedin.com/in/bystephaniesantos/) about lessons learned from the reading and experiments I undertake.
+- 📚 I love reading and writing about what I’ve learned from my reading.
+  - You can read my articles in the [Passando a Limpo](https://passandoalimpo.substack.com/) newsletter on Substack.
+- ✍🏻 I create content for [LinkedIn](https://www.linkedin.com/in/bystephaniesantos/) about lessons learned from the reading and experiments I undertake.
