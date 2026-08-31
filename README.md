@@ -10,7 +10,7 @@ I work on the co-creation of learning experiences and ecosystems that connect pe
 
 ## 💼Experience
 
-I am a Learning and Development Specialist and Literary Curator, with over 10 years of experience in relationship management, engagement, and project management. My career path combines strategy, learning, and a results-oriented mindset, with experience at technology companies like [Zig. The Global Funtech](https://zig.fun/) and [Trybe](https://www.betrybe.com/), as well as third-sector organizations such as [TETO Brasil](https://teto.org.br/), [Instituto Há Esperança](https://www.linkedin.com/company/haesperancabr/), and [Politize!](https://www.politize.com.br/).
+I currently work as a Learning Community Manager and have over 10 years of experience in relationship management, engagement, and project management. My career path combines strategy, learning, and a results-oriented mindset, with experience at technology companies like [Zig. The Global Funtech](https://zig.fun/) and [Trybe](https://www.betrybe.com/), as well as third-sector organizations such as [TETO Brasil](https://teto.org.br/), [Instituto Há Esperança](https://www.linkedin.com/company/haesperancabr/), and [Politize!](https://www.politize.com.br/).
 
 At Trybe, I currently provide career consulting for a community of over 5,000 alumni, a service that maintains an NPS of 84 and has helped more than 42% of the people served secure opportunities in the tech sector.
 
