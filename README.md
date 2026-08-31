@@ -10,13 +10,13 @@ I work on the co-creation of learning experiences and ecosystems that connect pe
 
 ## 💼Experience
 
-I currently work as a Learning Community Manager and have over 10 years of experience in relationship management, engagement, and project management. My career path combines strategy, learning, and a results-oriented mindset, with experience at technology companies like [Zig. The Global Funtech](https://zig.fun/) and [Trybe](https://www.betrybe.com/), as well as third-sector organizations such as [TETO Brasil](https://teto.org.br/), [Instituto Há Esperança](https://www.linkedin.com/company/haesperancabr/), and [Politize!](https://www.politize.com.br/).
+I currently work as a Learning Community Manager, with over 10 years of experience, 5 of which have been in the education sector. My career path combines strategy, learning, and a results-oriented mindset, with experience at technology companies like [Zig. The Global Funtech](https://zig.fun/) and [Trybe](https://www.betrybe.com/), as well as third-sector organizations such as [TETO Brasil](https://teto.org.br/), [Instituto Há Esperança](https://www.linkedin.com/company/haesperancabr/), and [Politize!](https://www.politize.com.br/).
 
 At Trybe, I currently provide career consulting for a community of over 5,000 alumni, a service that maintains an NPS of 84 and has helped more than 42% of the people served secure opportunities in the tech sector.
 
 My experience with social impact projects includes leading multidisciplinary teams, mobilization events, and educational initiatives. In 2021, I remotely led a team distributed across TETO Brasil’s seven regional branches during a national event that raised over R$ 400,000 in seven days, exceeding the goal by 33%.
 
-Today, I continue to expand my work at the intersection of learning, communities, creativity, and impact, experimenting with new ways to create environments where people can learn together, share perspectives, turn knowledge into action, and drive positive change.
+I continue to expand my work at the intersection of learning, communities, creativity, and impact, experimenting with new ways to create environments where people can learn together, share perspectives, turn knowledge into action, and drive positive change.
 
 It is in this territory that I want to build my path: co-creating learning experiences and ecosystems capable of positively impacting people, organizations, and society.
 
