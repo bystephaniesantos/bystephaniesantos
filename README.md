@@ -4,7 +4,7 @@ Over a career spanning more than 10 years, I have led projects, teams, communiti
 
 This background has enabled me to operate at various levels of the value chain, from defining strategies and designing solutions to mobilizing people, managing projects, and overseeing implementation. I strive to understand complex problems, identify opportunities, connect diverse perspectives, and transform ideas into solutions that generate value and impact.
 
-I am open to professional opportunities that allow me to take on strategic challenges of greater scale and complexity, contributing to organizations that are creating new possibilities for the future of education, work, and positive societal impact.
+I am open to professional opportunities that allow me to take on strategic challenges of greater scale and complexity, contributing to organizations that are creating possibilities to generate a positive impact on society.
 
 ## ✨Curiosities about me
 
