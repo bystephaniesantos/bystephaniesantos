@@ -1,7 +1,5 @@
 # 👋🏼Hi! I'm Stéphanie Santos, but you can call me Téph
 
-Before any academic title or professional experience, I'm passionate about learning and sharing knowledge.
-
 Over a career spanning more than 10 years, I have led projects, teams, communities, and strategic initiatives across various sectors and organizational contexts. My professional journey combines systems thinking, management, learning, and innovation, with experience at technology companies such as [Zig. The Global Funtech](https://zig.fun/) and [Trybe](https://www.betrybe.com/), as well as third-sector organizations like [TETO Brasil](https://teto.org.br/), [Instituto Há Esperança](https://www.linkedin.com/company/haesperancabr/), and [Politize!](https://www.politize.com.br/).
 
 This background has enabled me to operate at various levels of the value chain, from defining strategies and designing solutions to mobilizing people, managing projects, and overseeing implementation. I strive to understand complex problems, identify opportunities, connect diverse perspectives, and transform ideas into solutions that generate value and impact.
