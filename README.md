@@ -4,10 +4,6 @@ Before any academic title or professional experience, I'm passionate about learn
 
 I work at the intersection of strategy, education, innovation, and social impact, co-creating experiences, initiatives, and ecosystems that connect people, organizations, and society to drive positive transformation.
 
-<div align="left">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZzcHlidzB1a2h5cG9jZGJvdW4zOGxlbDRycGg3enRneG5tcmw5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeBeB9rR524RW/giphy.gif" width="600" alt="Gamer Room">  
-</div>
-
 ## 💼Experience
 
 Throughout a career spanning over a decade, I have led projects, teams, communities, and strategic initiatives across various sectors and organizational contexts. My background combines systems thinking, management, learning, and innovation, with experience at technology companies such a [Zig. The Global Funtech](https://zig.fun/) and [Trybe](https://www.betrybe.com/), as well as third-sector organizations like [TETO Brasil](https://teto.org.br/), [Instituto Há Esperança](https://www.linkedin.com/company/haesperancabr/), and [Politize!](https://www.politize.com.br/).
@@ -25,3 +21,7 @@ I aim to build the next phase of my career by taking on strategic challenges of 
 - ✍🏻 I create content for [LinkedIn](https://www.linkedin.com/in/bystephaniesantos/) about lessons learned from the reading and experiments I undertake.
 - 🧱 I have a passion for LEGO: I love collecting and building sets.
 - ⚽ I love playing and watching football matches, and I am very excited about the FIFA Women's World Cup Brazil 2027, which will take place in Brazil.
+
+<div align="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2ZzcHlidzB1a2h5cG9jZGJvdW4zOGxlbDRycGg3enRneG5tcmw5ayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/VeBeB9rR524RW/giphy.gif" width="600" alt="Gamer Room">  
+</div>
