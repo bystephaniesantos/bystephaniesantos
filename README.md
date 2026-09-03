@@ -2,17 +2,11 @@
 
 Before any academic title or professional experience, I'm passionate about learning and sharing knowledge.
 
-I work at the intersection of strategy, education, innovation, and social impact, co-creating experiences, initiatives, and ecosystems that connect people, organizations, and society to drive positive transformation.
+Over a career spanning more than 10 years, I have led projects, teams, communities, and strategic initiatives across various sectors and organizational contexts. My professional journey combines systems thinking, management, learning, and innovation, with experience at technology companies such as [Zig. The Global Funtech](https://zig.fun/) and [Trybe](https://www.betrybe.com/), as well as third-sector organizations like [TETO Brasil](https://teto.org.br/), [Instituto Há Esperança](https://www.linkedin.com/company/haesperancabr/), and [Politize!](https://www.politize.com.br/).
 
-## 💼Experience
+This background has enabled me to operate at various levels of the value chain, from defining strategies and designing solutions to mobilizing people, managing projects, and overseeing implementation. I strive to understand complex problems, identify opportunities, connect diverse perspectives, and transform ideas into solutions that generate value and impact.
 
-Throughout a career spanning over a decade, I have led projects, teams, communities, and strategic initiatives across various sectors and organizational contexts. My background combines systems thinking, management, learning, and innovation, with experience at technology companies such a [Zig. The Global Funtech](https://zig.fun/) and [Trybe](https://www.betrybe.com/), as well as third-sector organizations like [TETO Brasil](https://teto.org.br/), [Instituto Há Esperança](https://www.linkedin.com/company/haesperancabr/), and [Politize!](https://www.politize.com.br/).
-
-This journey has enabled me to operate at various levels of the value chain, from defining strategies and designing solutions to mobilizing people, managing projects, and overseeing implementation. I seek to understand complex problems, identify opportunities, connect diverse perspectives, and transform ideas into solutions that generate value and impact.
-
-Currently, I focus my work on the intersection of education, innovation, communities, and organizational transformation, exploring new ways to develop people, strengthen organizations, and create environments that are more experimental, collaborative, and inclusive.
-
-I aim to build the next phase of my career by taking on strategic challenges of greater scale and complexity, contributing to organizations that are creating new possibilities for the future of education, work, and positive societal impact.
+I am open to professional opportunities that allow me to take on strategic challenges of greater scale and complexity, contributing to organizations that are creating new possibilities for the future of education, work, and positive societal impact.
 
 ## ✨Curiosities about me
 
